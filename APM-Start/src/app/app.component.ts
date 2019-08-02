@@ -9,5 +9,5 @@ import { Component } from '@angular/core';
   `
 })
 export class AppComponent {
-  pageTitle = 'Chilindo Product Management';
+  pageTitle = 'Product Management';
 }
