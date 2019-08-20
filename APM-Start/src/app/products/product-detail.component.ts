@@ -32,7 +32,7 @@ export class ProductDetailComponent implements OnInit {
       error => this.errorMessage = <any>error);
   }
   onBack(): void {
-    this.router.navigate(['/products'])
+    this.router.navigate(['/products']);
   }
 }
 
